@@ -27,7 +27,7 @@
     
     
     
-   ## What is the Java String Pool
+## What is the Java String Pool
    
    
    The String pool is a storage area within the Java heap. The string pool keeps track of what strings have been created. It checks for variables that have called the same string twice or more, and if
